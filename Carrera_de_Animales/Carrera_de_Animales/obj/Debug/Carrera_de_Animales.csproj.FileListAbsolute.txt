@@ -1,0 +1,7 @@
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Carrera_de_Animales\Carrera_de_Animales\bin\Debug\Carrera_de_Animales.exe.config
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Carrera_de_Animales\Carrera_de_Animales\bin\Debug\Carrera_de_Animales.exe
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Carrera_de_Animales\Carrera_de_Animales\bin\Debug\Carrera_de_Animales.pdb
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Carrera_de_Animales\Carrera_de_Animales\obj\Debug\Carrera_de_Animales.csproj.AssemblyReference.cache
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Carrera_de_Animales\Carrera_de_Animales\obj\Debug\Carrera_de_Animales.csproj.CoreCompileInputs.cache
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Carrera_de_Animales\Carrera_de_Animales\obj\Debug\Carrera_de_Animales.exe
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Carrera_de_Animales\Carrera_de_Animales\obj\Debug\Carrera_de_Animales.pdb
